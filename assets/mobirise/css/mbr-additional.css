@@ -1916,6 +1916,32 @@ body {
 .cid-rthrzarDS5 H1 {
   color: #ffffff;
 }
+.cid-rtW0YZ9O3O {
+  background: #ffffff;
+}
+.cid-rtW0YZ9O3O .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rtW0YZ9O3O .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rtW0YZ9O3O figcaption {
+  position: relative;
+}
+.cid-rtW0YZ9O3O figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rtW0YZ9O3O .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rtW0YZ9O3O .mbr-figure-caption div B {
+  color: #ffffff;
+}
 .cid-rtVRDzda7e {
   background: #ffffff;
 }
